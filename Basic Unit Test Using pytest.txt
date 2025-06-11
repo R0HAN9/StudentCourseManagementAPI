@@ -1,5 +1,5 @@
 Explanation:
-Unit testing ensures that your API behaves as expected under various conditions. 
+Unit testing ensures that your API behaves as expected under various conditions.
 By using pytest, you can write tests that automatically check the functionality of your API endpoints. 
 This is crucial for detecting bugs early and ensuring code reliability.
 
