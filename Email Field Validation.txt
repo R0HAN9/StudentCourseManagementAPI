@@ -1,6 +1,6 @@
 Explanation:
 When creating a new student, it’s crucial to ensure that the email provided by the user is in a valid format (e.g., example@example.com). 
-This helps to avoid invalid data in the database, and ensures that the email meets certain criteria for further processing (such as sending  notifications or verifications).
+This helps to avoid invalid data in the database, and ensures that the email meets certain criteria for further processing (such as sending notifications or verifications).
 
 How Pydantic Helps:
 Pydantic, which is used by FastAPI for data validation, provides a special data type called EmailStr for this purpose. 
