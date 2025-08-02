@@ -1,6 +1,6 @@
 Explanation:
 Pagination is a technique used in APIs to split large lists into smaller, manageable chunks.
-For example, if there are 1,000 students in the database, it would be inefficient and slow to return all of them at once. 
+For example, if there are 1,000 students in the database, it would be inefficient and slow to return all of them at once.
 Instead, you can return only a limited number of students at a time (e.g., 10 or 20).
 
 Why Pagination is Important:
